@@ -56,7 +56,7 @@ int main() {
     printf("Tie Game\n");
   } else if (player1.numberOfLives == 0) {
     printf("Player 2 Wins\n");
-  } else {
+  } else if(player2.numberOfLives == 0) {
     printf("Player 1 Wins\n");
   }
 
@@ -80,15 +80,16 @@ void playTurn(Player *player){
   int rightAnswer = generateQuestionAndAnswer(player ->id);
   int givenAnswer;
   scanf("%d", &givenAnswer);
-  player ->answer = givenAnswer;
-  if (player ->answer == rightAnswer) {
+  player->answer = givenAnswer;
+  if (player->answer == rightAnswer) {
 
-    player ->score++;
-    player -> loseLife = 'N';
+    player->score++;
+    player->loseLife = 'N';
   } else {
 
     //player -> score--;
-    player -> loseLife = 'Y';
+    player->loseLife = 'Y';
+    player->numberOfLives--;
   }
 
 }

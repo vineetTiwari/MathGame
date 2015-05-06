@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>331BF96F-1CC3-455F-983D-46706925B841</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MathGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3D88AE8BBA908D9666BC562C54B479BEC0CFE23F</key>
+		<string>https://github.com/vineetTiwari/MathGame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MathGame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3D88AE8BBA908D9666BC562C54B479BEC0CFE23F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vineetTiwari/MathGame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3D88AE8BBA908D9666BC562C54B479BEC0CFE23F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3D88AE8BBA908D9666BC562C54B479BEC0CFE23F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MathGame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
